@@ -57,7 +57,7 @@ cmd(
 
       let madeMenu = `😺 *HelloW  ${pushname}*
 
-> *𝘸𝘦𝘭𝘤𝘰𝘮𝘦 𝘵𝘰 𝘬𝘢𝘷𝘪-𝘮𝘥 🎗️*
+> *𝘸𝘦𝘭𝘤𝘰𝘮𝘦 𝘵𝘰 LASITH-MD 🎗️*
 
 * ${menu.main}
 * ${menu.download}    
