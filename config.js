@@ -13,7 +13,18 @@ AUTO_STICKER: process.env.AUTO_STICKER || "false",
 AUTO_REPLY: process.env.AUTO_REPLY || "false",
 ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/bgp96n.jpg",  // පොටෝ url
 MENU_IMG: process.env.MENU_IMG || "https://files.catbox.moe/bgp96n.jpg",  //පොටෝ url
-ALIVE_MSG: process.env.ALIVE_MSG || "*😎 Hey How are you? 👻*\n\n*👊 Lasith-MD Whatsapp Bot Alive Now..!*\n\n> *ᴘᴏᴡᴇʀᴅ ʙʏ  ᴋᴀᴠɪᴅᴜ ʀᴀꜱᴀɴɢᴀ : )*",
+ALIVE_MSG: process.env.ALIVE_MSG || "
+🫟 *Wᴇʟᴄᴏᴍᴇ Tᴏ LASITH-Mᴅ*🫟
+
+*╭─「 ꜱᴛᴀᴛᴜꜱ ᴅᴇᴛᴀɪʟꜱ 」*
+*│*👾 *`Bot`*= *LASITH-ᴍᴅ*
+*│*☎️ *`Owner Number`*= 0774367639
+*│*✒️ *`Prefix`*= . 
+*╰──────────●●►*
+
+
+
+*㋛ powerd by LASITH*,
 ANTI_LINK: process.env.ANTI_LINK || "false",
 ANTI_BAD: process.env.ANTI_BAD || "false",
 PREFIX: process.env.PREFIX || ".",
