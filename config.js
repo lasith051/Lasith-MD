@@ -5,14 +5,14 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "vB9QjCTY#77FM_N_6lqhDpvIZiabMMvk0rvBkE3HDknZrjR8LxuY", // session id
+SESSION_ID: process.env.SESSION_ID || "Manu-MD&WBlQHJgQ#eLgC_cuLwsMcjozErvBmLiELn4EWSeu-eEhtQSoEZ8s", // session id
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
 MODE: process.env.MODE || "public",
 AUTO_VOICE: process.env.AUTO_VOICE || "false",
 AUTO_STICKER: process.env.AUTO_STICKER || "false",
 AUTO_REPLY: process.env.AUTO_REPLY || "false",
-ALIVE_IMG: process.env.ALIVE_IMG || "file_000000004e1c61f58f36 cec45598585d.png",  // පොටෝ url
-MENU_IMG: process.env.MENU_IMG || "https://files.catbox.moe/sq9tvu.jpg",  //පොටෝ url
+ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/bgp96n.jpg",  // පොටෝ url
+MENU_IMG: process.env.MENU_IMG || "https://files.catbox.moe/bgp96n.jpg",  //පොටෝ url
 ALIVE_MSG: process.env.ALIVE_MSG || "*😎 Hey How are you? 👻*\n\n*👊 Lasith-MD Whatsapp Bot Alive Now..!*\n\n> *ᴘᴏᴡᴇʀᴅ ʙʏ  ᴋᴀᴠɪᴅᴜ ʀᴀꜱᴀɴɢᴀ : )*",
 ANTI_LINK: process.env.ANTI_LINK || "false",
 ANTI_BAD: process.env.ANTI_BAD || "false",
