@@ -20,10 +20,10 @@
 
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //*
-//  * @project_name : MANU-MD
+//  * @project_name :LASITH-MD
 //  * @author : Manul Official
 //  * @youtube : https://www.youtube.com/@ManulOfficialTech
-//  * @description : Manu-MD ,A Multi-functional whatsapp user bot.
+//  * @description : LASITH-MD ,A Multi-functional whatsapp user bot.
 //*
 //*
 //base by Manul Official
